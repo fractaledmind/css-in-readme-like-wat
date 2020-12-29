@@ -7,4 +7,6 @@
 	<object type="image/svg+xml" data="header.svg">
 	  Update your browser to support support SVG <-- displayed if svg is not supported
 	</object>
+	<br>
+	<embed type="image/svg+xml" src="header.svg" />
 </div>
