@@ -1,12 +1,7 @@
 <div align="center">
 	<br>
 	<a href="https://raw.githubusercontent.com/fractaledmind/css-in-readme-like-wat/master/readme.md">
-		<img src="header.svg" width="100%" height="32">
+		<img src="header.svg" width="100%" height="32" style="max-height:100px;max-width:100px; width:auto; height: auto; position:absolute; margin: auto;">
 	</a>
 	<br>
-	<object type="image/svg+xml" data="header.svg">
-	  Update your browser to support support SVG <-- displayed if svg is not supported
-	</object>
-	<br>
-	<embed type="image/svg+xml" src="header.svg" />
 </div>
