@@ -9,7 +9,7 @@
 				    color: #24292e;
 				    background-color: #fff;
 				    box-sizing: border-box;
-				    padding-right: 35%;
+				    padding-right: 33%;
 				}
 				a {
 				    background-color: transparent;
