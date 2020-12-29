@@ -51,7 +51,7 @@
 				  transition-timing-function: cubic-bezier(0.3, 0, 0.5, 1), cubic-bezier(0.3, 0, 0.5, 1), cubic-bezier(0.3, 0, 0.5, 1);
 				  vertical-align: middle;
 				  white-space: nowrap;
-				  width: 145.34375px;
+				  width: 100%;
 				  word-wrap: break-word;
 				}
 			</style>
